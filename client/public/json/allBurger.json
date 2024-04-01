@@ -1,0 +1,362 @@
+[
+  {
+    "id": 41,
+    "img": "img/burger/burger1.png",
+    "title": "Domates Soslu Islak Burger",
+    "description": "Sulu sos, dana köfte, marullar, domates, turşu",
+    "price": 180,
+    "type": "Islak",
+    "Name": "Burger"
+  },
+  {
+    "id": 42,
+    "img": "img/burger/burger2.png",
+    "title": "Teriyaki Soslu Angus Burger",
+    "description": "Angus dana eti, cheddar peyniri, teriyaki sos, marullar, soğan",
+    "price": 200,
+    "type": "Angus",
+    "Name": "Burger"
+  },
+  {
+    "id": 43,
+    "img": "img/burger/burger3.png",
+    "title": "Şeftalili Bufalo Burger",
+    "description": "Bufalo tavuk, ranch sos, marullar, domates, şeftali, turşu",
+    "price": 190,
+    "type": "Bufalo",
+    "Name": "Burger"
+  },
+  {
+    "id": 44,
+    "img": "img/burger/burger4.png",
+    "title": "Domates Soslu Klasik Burger",
+    "description": "Dana köfte, cheddar peyniri, marullar, domates, turşu",
+    "price": 170,
+    "type": "Klasik",
+    "Name": "Burger"
+  },
+  {
+    "id": 45,
+    "img": "img/burger/burger5.png",
+    "title": "Şeftalili Terayagılı Burger",
+    "description": "Dana köfte, teriyaki sos, marullar, domates, şeftali, soğan",
+    "price": 185,
+    "type": "Terayagli",
+    "Name": "Burger"
+  },
+  {
+    "id": 46,
+    "img": "img/burger/burger6.png",
+    "title": "Barbekü Soslu Cizburger",
+    "description": "Dana köfte, cheddar peyniri, çıtır soğan halkaları, barbekü sos",
+    "price": 195,
+    "type": "Cizburger",
+    "Name": "Burger"
+  },
+  {
+    "id": 47,
+    "img": "img/burger/burger7.png",
+    "title": "Jalapeno Biberli Boca Burger",
+    "description": "Dana köfte, pepper jack peyniri, jalapeno biber, guacamole",
+    "price": 210,
+    "type": "Boca",
+    "Name": "Burger"
+  },
+  {
+    "id": 48,
+    "img": "img/burger/burger8.png",
+    "title": "Remoulade Soslu Bofsandwich",
+    "description": "Danish style beef sandwich with remoulade sauce",
+    "price": 220,
+    "type": "Bofsandwich",
+    "Name": "Burger"
+  },
+  {
+    "id": 49,
+    "img": "img/burger/burger9.png",
+    "title": "Kavunlu Islak Burger",
+    "description": "Sulu sos, dana köfte, marullar, kavun, turşu",
+    "price": 180,
+    "type": "Islak",
+    "Name": "Burger"
+  },
+  {
+    "id": 50,
+    "img": "img/burger/burger10.png",
+    "title": "Mandalinalı Angus Burger",
+    "description": "Angus dana eti, cheddar peyniri, mandalina dilimleri, bacon",
+    "price": 200,
+    "type": "Angus",
+    "Name": "Burger"
+  },
+  {
+    "id": 51,
+    "img": "img/burger/burger11.png",
+    "title": "Çift Peynirli Bufalo Burger",
+    "description": "Bufalo tavuk, ranch sos, marullar, domates, çift peynir, turşu",
+    "price": 190,
+    "type": "Bufalo",
+    "Name": "Burger"
+  },
+  {
+    "id": 52,
+    "img": "img/burger/burger12.png",
+    "title": "Double Ekmek Klasik Burger",
+    "description": "Dana köfte, cheddar peyniri, marullar, domates, turşu",
+    "price": 170,
+    "type": "Klasik",
+    "Name": "Burger"
+  },
+  {
+    "id": 53,
+    "img": "img/burger/burger13.png",
+    "title": "Kızarmış Şeftalili Terayagılı Burger",
+    "description": "Dana köfte, teriyaki sos, marullar, domates, kızarmış şeftali, soğan",
+    "price": 185,
+    "type": "Terayagli",
+    "Name": "Burger"
+  },
+  {
+    "id": 54,
+    "img": "img/burger/burger14.png",
+    "title": "Cevizli Barbekü Soslu Cizburger",
+    "description": "Dana köfte, cheddar peyniri, çıtır soğan halkaları, ceviz, barbekü sos",
+    "price": 195,
+    "type": "Cizburger",
+    "Name": "Burger"
+  },
+  {
+    "id": 55,
+    "img": "img/burger/burger15.png",
+    "title": "Fesleğenli Jalapeno Biberli Boca Burger",
+    "description": "Dana köfte, pepper jack peyniri, jalapeno biber, guacamole, fesleğen",
+    "price": 210,
+    "type": "Boca",
+    "Name": "Burger"
+  },
+  {
+    "id": 56,
+    "img": "img/burger/burger16.png",
+    "title": "Mango Remoulade Soslu Bofsandwich",
+    "description": "Danish style beef sandwich with mango-infused remoulade sauce",
+    "price": 220,
+    "type": "Bofsandwich",
+    "Name": "Burger"
+  },
+  {
+    "id": 57,
+    "img": "img/burger/burger17.png",
+    "title": "Karpuzlu Islak Burger",
+    "description": "Sulu sos, dana köfte, marullar, karpuz dilimleri, turşu",
+    "price": 180,
+    "type": "Islak",
+    "Name": "Burger"
+  },
+  {
+    "id": 58,
+    "img": "img/burger/burger18.png",
+    "title": "Limonlu Angus Burger",
+    "description": "Angus dana eti, cheddar peyniri, karamelize soğan, bacon, limon dilimleri",
+    "price": 200,
+    "type": "Angus",
+    "Name": "Burger"
+  },
+  {
+    "id": 59,
+    "img": "img/burger/burger19.png",
+    "title": "Çikolatalı Bufalo Burger",
+    "description": "Bufalo tavuk, ranch sos, marullar, domates, çikolata sos, turşu",
+    "price": 190,
+    "type": "Bufalo",
+    "Name": "Burger"
+  },
+  {
+    "id": 60,
+    "img": "img/burger/burger20.png",
+    "title": "Beyaz Peynirli Klasik Burger",
+    "description": "Dana köfte, beyaz peynir, marullar, domates, turşu",
+    "price": 170,
+    "type": "Klasik",
+    "Name": "Burger"
+  },
+  {
+    "id": 61,
+    "img": "img/burger/burger1.png",
+    "title": "Narlı Terayagılı Burger",
+    "description": "Dana köfte, teriyaki sos, marullar, domates, nar taneleri, soğan",
+    "price": 185,
+    "type": "Terayagli",
+    "Name": "Burger"
+  },
+  {
+    "id": 62,
+    "img": "img/burger/burger2.png",
+    "title": "Bademli Cizburger",
+    "description": "Dana köfte, cheddar peyniri, çıtır soğan halkaları, barbekü sos, badem",
+    "price": 195,
+    "type": "Cizburger",
+    "Name": "Burger"
+  },
+  {
+    "id": 63,
+    "img": "img/burger/burger3.png",
+    "title": "Portakallı Boca Burger",
+    "description": "Dana köfte, pepper jack peyniri, jalapeno biber, guacamole, portakal dilimleri",
+    "price": 210,
+    "type": "Boca",
+    "Name": "Burger"
+  },
+  {
+    "id": 64,
+    "img": "img/burger/burger4.png",
+    "title": "Fındıklı Bofsandwich",
+    "description": "Danish style beef sandwich with hazelnut-infused remoulade sauce",
+    "price": 220,
+    "type": "Bofsandwich",
+    "Name": "Burger"
+  },
+  {
+    "id": 65,
+    "img": "img/burger/burger5.png",
+    "title": "Çilekli Islak Burger",
+    "description": "Sulu sos, dana köfte, marullar, çilek dilimleri, turşu",
+    "price": 180,
+    "type": "Islak",
+    "Name": "Burger"
+  },
+  {
+    "id": 66,
+    "img": "img/burger/burger6.png",
+    "title": "Avokadolu Angus Burger",
+    "description": "Angus dana eti, cheddar peyniri, karamelize soğan, bacon, avokado dilimleri",
+    "price": 200,
+    "type": "Angus",
+    "Name": "Burger"
+  },
+  {
+    "id": 67,
+    "img": "img/burger/burger7.png",
+    "title": "Vişneli Bufalo Burger",
+    "description": "Bufalo tavuk, ranch sos, marullar, domates, vişne sos, turşu",
+    "price": 190,
+    "type": "Bufalo",
+    "Name": "Burger"
+  },
+  {
+    "id": 68,
+    "img": "img/burger/burger8.png",
+    "title": "Lavantalı Klasik Burger",
+    "description": "Dana köfte, cheddar peyniri, marullar, domates, lavanta yaprakları, turşu",
+    "price": 170,
+    "type": "Klasik",
+    "Name": "Burger"
+  },
+  {
+    "id": 69,
+    "img": "img/burger/burger9.png",
+    "title": "Mandalinalı Terayagılı Burger",
+    "description": "Dana köfte, teriyaki sos, marullar, domates, mandalina dilimleri, soğan",
+    "price": 185,
+    "type": "Terayagli",
+    "Name": "Burger"
+  },
+  {
+    "id": 70,
+    "img": "img/burger/burger10.png",
+    "title": "Antep Fıstıklı Cizburger",
+    "description": "Dana köfte, cheddar peyniri, çıtır soğan halkaları, barbekü sos, antep fıstığı",
+    "price": 195,
+    "type": "Cizburger",
+    "Name": "Burger"
+  },
+  {
+    "id": 71,
+    "img": "img/burger/burger11.png",
+    "title": "Balıklı Boca Burger",
+    "description": "Dana köfte, pepper jack peyniri, jalapeno biber, guacamole, balık filetosu",
+    "price": 210,
+    "type": "Boca",
+    "Name": "Burger"
+  },
+  {
+    "id": 72,
+    "img": "img/burger/burger12.png",
+    "title": "Mürdüm Eriği Soslu Bofsandwich",
+    "description": "Danish style beef sandwich with damson plum-infused remoulade sauce",
+    "price": 220,
+    "type": "Bofsandwich",
+    "Name": "Burger"
+  },
+  {
+    "id": 73,
+    "img": "img/burger/burger13.png",
+    "title": "Mango Soslu Islak Burger",
+    "description": "Sulu sos, dana köfte, marullar, mango dilimleri, turşu",
+    "price": 180,
+    "type": "Islak",
+    "Name": "Burger"
+  },
+  {
+    "id": 74,
+    "img": "img/burger/burger14.png",
+    "title": "Limonlu Angus Burger",
+    "description": "Angus dana eti, cheddar peyniri, karamelize soğan, bacon, limon dilimleri",
+    "price": 200,
+    "type": "Angus",
+    "Name": "Burger"
+  },
+  {
+    "id": 75,
+    "img": "img/burger/burger15.png",
+    "title": "Çikolatalı Bufalo Burger",
+    "description": "Bufalo tavuk, ranch sos, marullar, domates, çikolata sos, turşu",
+    "price": 190,
+    "type": "Bufalo",
+    "Name": "Burger"
+  },
+  {
+    "id": 76,
+    "img": "img/burger/burger16.png",
+    "title": "Beyaz Peynirli Klasik Burger",
+    "description": "Dana köfte, beyaz peynir, marullar, domates, turşu",
+    "price": 170,
+    "type": "Klasik",
+    "Name": "Burger"
+  },
+  {
+    "id": 77,
+    "img": "img/burger/burger17.png",
+    "title": "Narlı Terayagılı Burger",
+    "description": "Dana köfte, teriyaki sos, marullar, domates, nar taneleri, soğan",
+    "price": 185,
+    "type": "Terayagli",
+    "Name": "Burger"
+  },
+  {
+    "id": 78,
+    "img": "img/burger/burger18.png",
+    "title": "Bademli Cizburger",
+    "description": "Dana köfte, cheddar peyniri, çıtır soğan halkaları, barbekü sos, badem",
+    "price": 195,
+    "type": "Cizburger",
+    "Name": "Burger"
+  },
+  {
+    "id": 79,
+    "img": "img/burger/burger19.png",
+    "title": "Portakallı Boca Burger",
+    "description": "Dana köfte, pepper jack peyniri, jalapeno biber, guacamole, portakal dilimleri",
+    "price": 210,
+    "type": "Boca",
+    "Name": "Burger"
+  },
+  {
+    "id": 80,
+    "img": "img/burger/burger20.png",
+    "title": "Fındıklı Bofsandwich",
+    "description": "Danish style beef sandwich with hazelnut-infused remoulade sauce",
+    "price": 220,
+    "type": "Bofsandwich",
+    "Name": "Burger"
+  }
+]

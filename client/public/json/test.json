@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "John Doe",
+        "description": "Pizza hakkında güzel bir yorum: Bu pizza, mükemmel bir dengeye sahip. Sosunun lezzeti, hamurunun yumuşaklığı ve peynirin kıvamı bir araya gelince gerçekten lezzetli bir tat oluşturuyor.",
+        "img": "https://html.design/demo/fantastic_food/images/test2.png"
+    },
+    {
+        "id": 2,
+        "title": "Jane Smith",
+        "description": "Burger hakkında güzel bir yorum: Bu burger, benim favorim haline geldi. Etin lezzeti, sebzelerin tazeliği ve sosunun aroması bir araya geldiğinde mükemmel bir lezzet şöleni yaşatıyor.",
+        "img": "https://html.design/demo/fantastic_food/images/test2.png"
+    },
+    {
+        "id": 3,
+        "title": "Michael Johnson",
+        "description": "Pizza hakkında güzel bir yorum: Bu pizza, tam anlamıyla bir lezzet patlaması! İnce hamuru ve bol malzemesiyle gerçek bir lezzet şöleni sunuyor.",
+        "img": "https://html.design/demo/fantastic_food/images/test2.png"
+    },
+    {
+        "id": 4,
+        "title": "Emily Brown",
+        "description": "Burger hakkında güzel bir yorum: Bu burger, tatlı ve acı lezzetlerin mükemmel uyumunu sunuyor. Her lokmada farklı bir lezzet keşfetmek mümkün!",
+        "img": "https://html.design/demo/fantastic_food/images/test2.png"
+    },
+    {
+        "id": 5,
+        "title": "David Lee",
+        "description": "Pizza hakkında güzel bir yorum: Bu pizza, gerçekten harika bir dengeye sahip. Her lokmada taze malzemelerin lezzetini hissedebiliyorsunuz. Kesinlikle tavsiye ederim!",
+        "img": "https://html.design/demo/fantastic_food/images/test2.png"
+    }
+]

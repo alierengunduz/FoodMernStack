@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Küçük",
+        "price":  0.00,
+        "img": "/img/burger/burger1.png"
+    },
+    {
+        "id": 2,
+        "title": "Orta",
+        "price":  250.00,
+        "img": "/img/burger/burger1.png"
+    },
+    {
+        "id": 2,
+        "title": "Büyük",
+        "price":  290.00,
+        "img": "/img/burger/burger1.png"
+    }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "id": 1,
+        "img": "img/pizza/pizza1.png",
+        "title": "Çiftlik Evi",
+        "description": "Sucuk, dana jambon, mantar, mısır, mozzarella peyniri",
+        "price": 250,
+        "type": "Sucuk",
+        "Name": "Pizza"
+      },
+      {
+        "id": 2,
+        "img": "img/pizza/pizza2.png",
+        "title": "Pastırmalı Mix",
+        "description": "Pastırma, kırmızı biber, mısır, mozzarella peyniri",
+        "price": 280,
+        "type": "Pastırma",
+        "Name": "Pizza"
+      },
+      {
+        "id": 3,
+        "img": "img/burger/burger1.png",
+        "title": "Tavuklu Sucuklu",
+        "description": "Tavuk, sucuk, yeşil biber, mısır, mozzarella peyniri",
+        "price": 270,
+        "type": "Sucuk",
+        "Name": "Pizza"
+      },
+      {
+        "id": 4,
+        "img": "img/burger/burger2.png",
+        "title": "Karışık",
+        "description": "Sosis, zeytin, mantar, mısır, mozzarella peyniri",
+        "price": 260,
+        "type": "Sosis",
+        "Name": "Pizza"
+      },
+      {
+        "id": 5,
+        "img": "img/pizza/pizza3.png",
+        "title": "Ton Balıklı",
+        "description": "Ton balığı, soğan, mısır, mozzarella peyniri",
+        "price": 290,
+        "type": "Ton Balığı",
+        "Name": "Pizza"
+      },
+      {
+        "id": 6,
+        "img": "img/burger/burger3.png",
+        "title": "Islak Burger",
+        "description": "Sulu sos, dana köfte, marullar, domates, turşu",
+        "price": 180,
+        "type": "Islak",
+        "Name": "Burger"
+      },
+      {
+        "id": 7,
+        "img": "img/pizza/pizza4.png",
+        "title": "Angus Burger",
+        "description": "Angus dana eti, cheddar peyniri, karamelize soğan, bacon",
+        "price": 200,
+        "type": "Angus",
+        "Name": "Burger"
+      },
+      {
+        "id": 8,
+        "img": "img/burger/burger4.png",
+        "title": "Bufalo Burger",
+        "description": "Bufalo tavuk, ranch sos, marullar, domates, turşu",
+        "price": 190,
+        "type": "Bufalo",
+        "Name": "Burger"
+      },
+      {
+        "id": 9,
+        "img": "img/pizza/pizza5.png",
+        "title": "Klasik Burger",
+        "description": "Dana köfte, cheddar peyniri, marullar, domates, turşu",
+        "price": 170,
+        "type": "Klasik",
+        "Name": "Burger"
+      },
+      {
+        "id": 10,
+        "img": "img/burger/burger5.png",
+        "title": "Efsane 5'li Max",
+        "description": "Mantar, biber, sucuk, mısır, mozzarella peyniri",
+        "price": 300,
+        "type": "efsane5limax",
+        "Name": "efsane5lisenior"
+    },
+    {
+        "id": 11,
+        "img": "img/pizza/pizza6.png",
+        "title": "Efsane 5'li Mega",
+        "description": "Ton balığı, karides, kalamar, mısır, mozzarella peyniri",
+        "price": 320,
+        "type": "efsane5limega",
+        "Name": "efsane5lisenior"
+    },
+    {
+        "id": 12,
+        "img": "img/burger/burger6.png",
+        "title": "Efsane 5'li King",
+        "description": "Dana pepperoni, sosis, mısır, biber, mozzarella peyniri",
+        "price": 310,
+        "type": "efsane5liking",
+        "Name": "efsane5lisenior"
+    },
+    {
+        "id": 13,
+        "img": "img/pizza/pizza7.png",
+        "title": "Efsane 5'li Queen",
+        "description": "Mantar, prosciutto, roka, parmesan peyniri, mozzarella peyniri",
+        "price": 325,
+        "type": "efsane5liqueen",
+        "Name": "efsane5lisenior"
+    },
+    {
+        "id": 14,
+        "img": "img/burger/burger7.png",
+        "title": "Tavuk But",
+        "description": "Fırın tavuk but, sebzeli pilav, sarımsaklı yoğurt",
+        "price": 175,
+        "type": "tavukBut",
+        "Name": "TavukluUrunler"
+    },
+    {
+        "id": 15,
+        "img": "img/pizza/pizza8.png",
+        "title": "Tavuk Pirzola",
+        "description": "Baharatlı tavuk pirzola, fırın patates, sebzeler",
+        "price": 185,
+        "type": "tavukPirzola",
+        "Name": "TavukluUrunler"
+    },
+    {
+        "id": 16,
+        "img": "img/burger/burger8.png",
+        "title": "Tavuk Şiş",
+        "description": "Tavuk şiş, biber, soğan, pilav",
+        "price": 170,
+        "type": "tavukSis",
+        "Name": "TavukluUrunler"
+    },
+    {
+        "id": 17,
+        "img": "img/pizza/pizza9.png",
+        "title": "Tavuk Burger",
+        "description": "Marullar, domates, soğan, tavuk köftesi, acı sos",
+        "price": 160,
+        "type": "tavukBurger",
+        "Name": "TavukluUrunler"
+    },
+    {
+        "id": 18,
+        "img": "img/burger/burger9.png",
+        "title": "Tavuk Döner",
+        "description": "Tavuk döner, marullar, domates, yoğurtlu sos",
+        "price": 180,
+        "type": "tavukDoner",
+        "Name": "TavukluUrunler"
+    },
+    {
+        "id": 19,
+        "img": "img/pizza/pizza10.png",
+        "title": "Soğan Halkası",
+        "description": "Çıtır soğan halkaları, acılı sos",
+        "price": 25,
+        "type": "soganHalkasi",
+        "Name": "YanUrunler"
+     },
+     {
+        "id": 20,
+        "img": "img/burger/burger10.png",
+        "title": "Nugget",
+        "description": "Tavuk nugget, yoğurtlu sos",
+        "price": 35,
+        "type": "nugget",
+        "Name": "YanUrunler"
+     },
+     {
+        "id": 21,
+        "img": "img/pizza/pizza11.png",
+        "title": "Makarna",
+        "description": "Makarna, parmesan peyniri, beyaz sos",
+        "price": 40,
+        "type": "makarna",
+        "Name": "YanUrunler"
+     },
+     {
+        "id": 22,
+        "img": "img/burger/burger11.png",
+        "title": "Pirinç Pilavı",
+        "description": "Baharatlı pirinç pilavı, yeşil fasulye",
+        "price": 30,
+        "type": "pirincPilavi",
+        "Name": "YanUrunler"
+     },
+     {
+        "id": 23,
+        "img": "img/pizza/pizza12.png",
+        "title": "Kumpir",
+        "description": "Fırın kumpir, garnitür, kaşar peyniri",
+        "price": 45,
+        "type": "kumpir",
+        "Name": "YanUrunler"
+     },
+     {
+        "id": 24,
+        "img": "img/burger/burger12.png",
+        "title": "Brownie",
+        "description": "Fındıklı brownie, vanilya dondurma",
+        "price": 35,
+        "type": "Brownie",
+        "Name": "Tatlilar"
+     },
+     {
+        "id": 25,
+        "img": "img/pizza/pizza13.png",
+        "title": "Muffin",
+        "description": "Çikolatalı muffin, frambuaz sos",
+        "price": 30,
+        "type": "Muffin",
+        "Name": "Tatlilar"
+     },
+     {
+        "id": 26,
+        "img": "img/burger/burger13.png",
+        "title": "Pasta",
+        "description": "Çikolata ganajlı pasta, çilek dilimleri",
+        "price": 45,
+        "type": "Pasta",
+        "Name": "Tatlilar"
+     },
+     {
+        "id": 27,
+        "img": "img/pizza/pizza14.png",
+        "title": "Kadayıf",
+        "description": "Fıstıklı kadayıf, şerbet",
+        "price": 25,
+        "type": "Kadayif",
+        "Name": "Tatlilar"
+     },
+     {
+        "id": 28,
+        "img": "img/burger/burger14.png",
+        "title": "Künefe",
+        "description": "Antep fıstıklı künefe, kaymak",
+        "price": 30,
+        "type": "Kunefe",
+        "Name": "Tatlilar"
+     },
+     {
+        "id": 29,
+        "img": "img/pizza/pizza15.png",
+        "title": "Baklava",
+        "description": "Antep fıstıklı baklava, şerbet",
+        "price": 35,
+        "type": "Baklava",
+        "Name": "Tatlilar"
+     },
+     {
+        "id": 30,
+        "img": "img/burger/burger15.png",
+        "title": "Sütlü Tatlı",
+        "description": "Sütlü tatlı, fıstık içi",
+        "price": 30,
+        "type": "Sulac",
+        "Name": "Tatlilar"
+     },
+     {
+        "id": 31,
+        "img": "img/pizza/pizza16.png",
+        "title": "Sprite",
+        "description": "Limonlu gazoz, buz",
+        "price": 5,
+        "type": "sprite",
+        "Name": "Icecekler"
+     },
+     {
+        "id": 32,
+        "img": "img/burger/burger16.png",
+        "title": "Ayran",
+        "description": "Taze ayran, tuzlu",
+        "price": 3,
+        "type": "ayran",
+        "Name": "Icecekler"
+     },
+     {
+        "id": 33,
+        "img": "img/pizza/pizza.png",
+        "title": "Su",
+        "description": "Soguk maden suyu, limon dilimi",
+        "price": 2,
+        "type": "su",
+        "Name": "Icecekler"
+     },
+     {
+        "id": 34,
+        "img": "img/burger/burger17.png",
+        "title": "Meyve Suyu",
+        "description": "Taze sıkılmış meyve suyu",
+        "price": 8,
+        "type": "meyveSuyu",
+        "Name": "Icecekler"
+     },
+     {
+        "id": 35,
+        "img": "img/pizza/pizza18.png",
+        "title": "Kahve",
+        "description": "Türk kahvesi, çikolata ezmesi",
+        "price": 10,
+        "type": "kahve",
+        "Name": "Icecekler"
+     },
+     {
+        "id": 36,
+        "img": "img/burger/burger18.png",
+        "title": "Çay",
+        "description": "Demli çay, bergamot dilimi",
+        "price": 4,
+        "type": "cay",
+        "Name": "Icecekler"
+     },
+     {
+        "id": 37,
+        "img": "img/pizza/pizza19.png",
+        "title": "Kola",
+        "description": "Buzlu kola, limon dilimi",
+        "price": 5,
+        "type": "kola",
+        "Name": "Icecekler"
+     }
+]

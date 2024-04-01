@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "img": "img/pizza/pizza1.png",
+    "title": "Çiftlik Evi",
+    "description": "Sucuk, dana jambon, mantar, Misir, mozzarella peyniri",
+    "price": 250,
+    "type": "Sucuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 2,
+    "img": "img/pizza/pizza2.png",
+    "title": "Pastirmalı Mix",
+    "description": "Pastirma, kırmızı biber, Misir, mozzarella peyniri",
+    "price": 280,
+    "type": "Pastirma",
+    "Name": "Pizza"
+  },
+  {
+    "id": 3,
+    "img": "img/pizza/pizza3.png",
+    "title": "Tavuklu Sucuklu",
+    "description": "Tavuk, sucuk, yeşil biber, Misir, mozzarella peyniri",
+    "price": 270,
+    "type": "Sucuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 4,
+    "img": "img/pizza/pizza4.png",
+    "title": "Karışık",
+    "description": "Sosis, zeytin, mantar, Misir, mozzarella peyniri",
+    "price": 260,
+    "type": "Sosis",
+    "Name": "Pizza"
+  },
+  {
+    "id": 5,
+    "img": "img/pizza/pizza5.png",
+    "title": "Ton Balıklı",
+    "description": "TonBaligi, soğan, Misir, mozzarella peyniri",
+    "price": 290,
+    "type": "TonBaligi",
+    "Name": "Pizza"
+  },
+  {
+    "id": 6,
+    "img": "img/pizza/pizza6.png",
+    "title": "Mantarlı",
+    "description": "Mantar, yeşil biber, Misir, mozzarella peyniri",
+    "price": 255,
+    "type": "Mantar",
+    "Name": "Pizza"
+  },
+  {
+    "id": 7,
+    "img": "img/pizza/pizza7.png",
+    "title": "Sosisli",
+    "description": "Sosis, sucuk, Misir, mozzarella peyniri",
+    "price": 265,
+    "type": "Sosis",
+    "Name": "Pizza"
+  },
+  {
+    "id": 8,
+    "img": "img/pizza/pizza8.png",
+    "title": "Zeytinli",
+    "description": "Zeytin, Misir, mozzarella peyniri",
+    "price": 255,
+    "type": "Zeytin",
+    "Name": "Pizza"
+  },
+  {
+    "id": 9,
+    "img": "img/pizza/pizza9.png",
+    "title": "Misirlı",
+    "description": "Misir, yeşil biber, mozzarella peyniri",
+    "price": 250,
+    "type": "Misir",
+    "Name": "Pizza"
+  },
+  {
+    "id": 10,
+    "img": "img/pizza/pizza10.png",
+    "title": "Pastirmalı",
+    "description": "Pastirma, zeytin, Misir, mozzarella peyniri",
+    "price": 275,
+    "type": "Pastirma",
+    "Name": "Pizza"
+  },
+  {
+    "id": 11,
+    "img": "img/pizza/pizza11.png",
+    "title": "Sucuklu",
+    "description": "Sucuk, yeşil biber, Misir, mozzarella peyniri",
+    "price": 265,
+    "type": "Sucuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 12,
+    "img": "img/pizza/pizza12.png",
+    "title": "Karışık Vejetaryen",
+    "description": "Mantar, zeytin, Misir, mozzarella peyniri",
+    "price": 260,
+    "type": "Mantar",
+    "Name": "Pizza"
+  },
+  {
+    "id": 13,
+    "img": "img/pizza/pizza13.png",
+    "title": "Tavuklu",
+    "description": "Tavuk, Misir, mozzarella peyniri",
+    "price": 270,
+    "type": "Tavuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 14,
+    "img": "img/pizza/pizza14.png",
+    "title": "Vejetaryen",
+    "description": "Zeytin, biber, Misir, mozzarella peyniri",
+    "price": 255,
+    "type": "Zeytin",
+    "Name": "Pizza"
+  },
+  {
+    "id": 15,
+    "img": "img/pizza/pizza15.png",
+    "title": "Kavurmalılar",
+    "description": "Kavurma, yeşil biber, Misir, mozzarella peyniri",
+    "price": 275,
+    "type": "Kavurma",
+    "Name": "Pizza"
+  },
+  {
+    "id": 16,
+    "img": "img/pizza/pizza16.png",
+    "title": "Karışık Deniz Mahsulleri",
+    "description": "Karides, kalamar, TonBaligi, mozzarella peyniri",
+    "price": 310,
+    "type": "TonBaligi",
+    "Name": "Pizza"
+  },
+  {
+    "id": 17,
+    "img": "img/pizza/pizza17.png",
+    "title": "Soslu",
+    "description": "Sos, yeşil biber, Misir, mozzarella peyniri",
+    "price": 260,
+    "type": "Sosis",
+    "Name": "Pizza"
+  },
+  {
+    "id": 18,
+    "img": "img/pizza/pizza18.png",
+    "title": "Kebapçılar",
+    "description": "Dana kavurma, sucuk, biber, mozzarella peyniri",
+    "price": 295,
+    "type": "Kavurma",
+    "Name": "Pizza"
+  },
+  {
+    "id": 19,
+    "img": "img/pizza/pizza19.png",
+    "title": "İtalyan",
+    "description": "Prosciutto, cherry domates, rucola, mozzarella peyniri",
+    "price": 305,
+    "type": "Mantar",
+    "Name": "Pizza"
+  },
+  {
+    "id": 20,
+    "img": "img/pizza/pizza20.png",
+    "title": "Acılı Karışık",
+    "description": "Sosis, jalapeno biber, Misir, mozzarella peyniri",
+    "price": 270,
+    "type": "Sosis",
+    "Name": "Pizza"
+  },
+  {
+    "id": 21,
+    "img": "img/pizza/pizza1.png",
+    "title": "Margarita",
+    "description": "Domates sosu, mozzarella peyniri, taze fesleğen",
+    "price": 240,
+    "type": "Zeytin",
+    "Name": "Pizza"
+  },
+  {
+    "id": 22,
+    "img": "img/pizza/pizza2.png",
+    "title": "Turkish Pepperoni",
+    "description": "Turkish pepperoni, sosis, Misir, mozzarella peyniri",
+    "price": 280,
+    "type": "Sucuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 23,
+    "img": "img/pizza/pizza3.png",
+    "title": "Karışık Sebzeli",
+    "description": "Mantar, biber, Misir, mozzarella peyniri",
+    "price": 255,
+    "type": "Mantar",
+    "Name": "Pizza"
+  },
+  {
+    "id": 24,
+    "img": "img/pizza/pizza4.png",
+    "title": "Dana Salam Vejetaryen",
+    "description": "Dana salam, zeytin, Misir, mozzarella peyniri",
+    "price": 265,
+    "type": "Zeytin",
+    "Name": "Pizza"
+  },
+  {
+    "id": 25,
+    "img": "img/pizza/pizza5.png",
+    "title": "Fıstıklı ve Sucuklu",
+    "description": "Fıstık, sucuk, Misir, mozzarella peyniri",
+    "price": 275,
+    "type": "Sucuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 26,
+    "img": "img/pizza/pizza6.png",
+    "title": "Ananaslı Soslu",
+    "description": "Ananas, sos, Misir, mozzarella peyniri",
+    "price": 260,
+    "type": "Misir",
+    "Name": "Pizza"
+  },
+  {
+    "id": 27,
+    "img": "img/pizza/pizza7.png",
+    "title": "Beyaz Kenar",
+    "description": "Beyaz kenar, Misir, mozzarella peyniri",
+    "price": 250,
+    "type": "Mantar",
+    "Name": "Pizza"
+  },
+  {
+    "id": 28,
+    "img": "img/pizza/pizza8.png",
+    "title": "Soğan Halkası",
+    "description": "Soğan halkası, Misir, mozzarella peyniri",
+    "price": 255,
+    "type": "Zeytin",
+    "Name": "Pizza"
+  },
+  {
+    "id": 29,
+    "img": "img/pizza/pizza9.png",
+    "title": "Fıstıklı",
+    "description": "Fıstık, Misir, mozzarella peyniri",
+    "price": 250,
+    "type": "Misir",
+    "Name": "Pizza"
+  },
+  {
+    "id": 30,
+    "img": "img/pizza/pizza10.png",
+    "title": "Somun Kenar",
+    "description": "Somun kenar, Misir, mozzarella peyniri",
+    "price": 255,
+    "type": "Sosis",
+    "Name": "Pizza"
+  },
+  {
+    "id": 31,
+    "img": "img/pizza/pizza11.png",
+    "title": "Üzümlü ve Tavuklu",
+    "description": "Üzüm, tavuk, Misir, mozzarella peyniri",
+    "price": 270,
+    "type": "Tavuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 32,
+    "img": "img/pizza/pizza12.png",
+    "title": "Karışık Beyaz",
+    "description": "Beyaz sos, Misir, mozzarella peyniri",
+    "price": 255,
+    "type": "Sosis",
+    "Name": "Pizza"
+  },
+  {
+    "id": 33,
+    "img": "img/pizza/pizza13.png",
+    "title": "Soğanlı",
+    "description": "Soğan, Misir, mozzarella peyniri",
+    "price": 250,
+    "type": "Sosis",
+    "Name": "Pizza"
+  },
+  {
+    "id": 34,
+    "img": "img/pizza/pizza14.png",
+    "title": "Hot Dog Beyaz",
+    "description": "Hot dog, beyaz sos, Misir, mozzarella peyniri",
+    "price": 265,
+    "type": "Sucuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 35,
+    "img": "img/pizza/pizza15.png",
+    "title": "Avokadolu ve Soslu",
+    "description": "Avokado, sos, Misir, mozzarella peyniri",
+    "price": 280,
+    "type": "Misir",
+    "Name": "Pizza"
+  },
+  {
+    "id": 36,
+    "img": "img/pizza/pizza16.png",
+    "title": "Hot Dog Kırmızı",
+    "description": "Hot dog, kırmızı sos, Misir, mozzarella peyniri",
+    "price": 270,
+    "type": "Sucuk",
+    "Name": "Pizza"
+  },
+  {
+    "id": 37,
+    "img": "img/pizza/pizza17.png",
+    "title": "Mangal Soslu",
+    "description": "Mangal sos, Misir, mozzarella peyniri",
+    "price": 255,
+    "type": "Mantar",
+    "Name": "Pizza"
+  },
+  {
+    "id": 38,
+    "img": "img/pizza/pizza18.png",
+    "title": "Keçi Peynirli ve Antep Fıstıklı",
+    "description": "Keçi peyniri, Antep fıstığı, Misir, mozzarella peyniri",
+    "price": 290,
+    "type": "Zeytin",
+    "Name": "Pizza"
+  },
+  {
+    "id": 39,
+    "img": "img/pizza/pizza19.png",
+    "title": "Peynirli",
+    "description": "Beyaz sos, peynir, Misir, mozzarella peyniri",
+    "price": 250,
+    "type": "Zeytin",
+    "Name": "Pizza"
+  },
+  {
+    "id": 40,
+    "img": "img/pizza/pizza20.png",
+    "title": "Sucuklu ve Soğanlı",
+    "description": "Sucuk, soğan, Misir, mozzarella peyniri",
+    "price": 265,
+    "type": "Sucuk",
+    "Name": "Pizza"
+  }
+]

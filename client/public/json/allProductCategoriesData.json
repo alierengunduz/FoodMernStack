@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Pizzalar",
+        "items": ["Sucuk", "Kavurma", "Pastırma", "Mantar", "Sosis", "Ton Balığı", "Mısır", "Zeytin"]
+    },
+    {
+        "title": "Efsane 5'li Pizzalar",
+        "items": ["Efsane 5’li", "Efsane 5’li Plus", "Efsane 5’li Max", "Efsane 5’li Mega", "Efsane 5’li King", "Efsane 5’li Queen", "Efsane 5’li Junior", "Efsane 5’li Senior"]
+    },
+    {
+        "title": "Burgerler",
+        "items": ["Islak", "Angus", "Bufalo", "Klasik", "Terayağlı", "Çizburger", "Boca", "Bøfsandwich"]
+    },
+    {
+        "title": "Tavuklu Ürünler",
+        "items": ["Tavuk Burger", "Tavuk Döner", "Tavuk Kanat", "Tavuk Göğüs", "Tavuk Baget", "Tavuk But", "Tavuk Pirzola", "Tavuk Şiş"]
+    },
+    {
+        "title": "Yan Ürünler",
+        "items": ["Patates Kızartması", "Soğan Halkası", "Nugget", "Makarna", "Pirinç Pilavı", "Kumpir", "Tavuk Döner", "Tavuk Kanat"]
+    },
+    {
+        "title": "Tatlılar",
+        "items": ["Cheesecake", "Brownie", "Muffin", "Pasta", "Kadayıf", "Künefe", "Baklava", "Sütlaç"]
+    },
+    {
+        "title": "İçecekler",
+        "items": ["Kola", "Fanta", "Sprite", "Ayran", "Su", "Meyve Suyu", "Kahve", "Çay"]
+    },
+    {
+        "title": "Soslar",
+        "items": ["Barbekü", "Mayonez", "Hardal", "Ketçap", "Ranch", "Sarımsaklı", "Buffalo", "Tartar"]
+    }
+]

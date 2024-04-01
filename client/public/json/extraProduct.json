@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "title": "Cheddar Peyniri",
+        "price": 14.00
+    },
+    {
+        "id": 2,
+        "title": "Extra Mozarella",
+        "price": 15.00
+    },
+    {
+        "id": 3,
+        "title": "Füme Kaburga",
+        "price": 20.00
+    },
+    {
+        "id": 4,
+        "title": "Jalapeno Biber",
+        "price": 8.00
+    },
+    {
+        "id": 5,
+        "title": "Kavurma",
+        "price": 20.00
+    },
+    {
+        "id": 6,
+        "title": "Kırmızı Köz Biber",
+        "price": 8.00
+    },
+    {
+        "id": 7,
+        "title": "Küp Sucuk",
+        "price": 15.00
+    },
+    {
+        "id": 8,
+        "title": "Mantar",
+        "price": 8.00
+    },
+    {
+        "id": 9,
+        "title": "Mısır",
+        "price": 8.00
+    },
+    {
+        "id": 10,
+        "title": "Parmesan Peyniri",
+        "price": 14.00
+    },
+    {
+        "id": 11,
+        "title": "Pastırma",
+        "price": 20.00
+    },
+    {
+        "id": 12,
+        "title": "Patlıcan",
+        "price": 8.00
+    },
+    {
+        "id": 13,
+        "title": "Salam",
+        "price": 15.00
+    },
+    {
+        "id": 14,
+        "title": "Soğan",
+        "price": 8.00
+    },
+    {
+        "id": 15,
+        "title": "Sosis",
+        "price": 15.00
+    },
+    {
+        "id": 16,
+        "title": "Sucuk",
+        "price": 15.00
+    },
+    {
+        "id": 17,
+        "title": "Susam",
+        "price": 1.00
+    },
+    {
+        "id": 18,
+        "title": "Şerit Sosis",
+        "price": 15.00
+    },
+    {
+        "id": 19,
+        "title": "Tavuk Parçaları",
+        "price": 15.00
+    },
+    {
+        "id": 20,
+        "title": "Ton Balığı",
+        "price": 20.00
+    },
+    {
+        "id": 21,
+        "title": "Yeşil Biber",
+        "price": 8.00
+    }
+]

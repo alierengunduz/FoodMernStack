@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Klasik Hamur",
+        "price": 0.00,
+        "img" : "/img/pizza/pizza1.png"
+    },
+    {
+        "id": 2,
+        "title": "İnce Hamur",
+        "price": 8.00,
+        "img" : "/img/pizza/pizza1.png"
+    },
+    {
+        "id": 3,
+        "title": "Klasik Hamur Simit Kenar",
+        "price": 19.00,
+        "img" : "/img/pizza/pizza1.png"
+    },
+    {
+        "id": 4,
+        "title": "Klasik Hamur Peynirli Simit Kenar",
+        "price": 29.00,
+        "img" : "/img/pizza/pizza1.png"
+    },
+    {
+        "id": 5,
+        "title": "Klasik Hamur Peynirli Kenar",
+        "price": 39.00,
+        "img" : "/img/pizza/pizza1.png"
+    }
+]

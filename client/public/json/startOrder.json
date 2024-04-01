@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title":"kampanyalar",
+        "img": "img/act2.png",
+        "goLink": "/allProductsPage" 
+    },
+    {
+        "id": 2,
+        "title":"Pizza",
+        "img": "img/contentPizza.png",
+        "goLink": "/allProductsPage"
+    },
+    {
+        "id": 3,
+        "title":"Burger",
+        "img": "img/contentBurger.png",
+        "goLink": "/allProductsPage"
+    },
+    {
+        "id": 4,
+        "title":"Yan Ürünler",
+        "img": "img/contentPatato.png",
+        "goLink": "/allProductsPage"
+    },
+    {
+        "id": 5,
+        "title":"Tatlılar",
+        "img": "img/contentSweet.png",
+        "goLink": "/allProductsPage"
+    },
+    {
+        "id": 6,
+        "title":"İçecekler",
+        "img": "img/contentDrink.png",
+        "goLink": "/allProductsPage"
+    },
+    {
+        "id": 7,
+        "title":"Soslar",
+        "img": "img/contentSauce.png",
+        "goLink": "/allProductsPage"
+    }
+]
