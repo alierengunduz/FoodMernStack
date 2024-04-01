@@ -9,15 +9,12 @@ dotenv.config()
 const app = express()
 const PORT = process.env.PORT
 
-// Sadece belirli bir domainden gelen istekleri kabul etmek için
-const corsOptions = {
-    origin: "http://localhost:5173",
-  };
+
   
   // middleware
 app.use(logger('dev'))
 app.use(express.json())
-app.use(cors(corsOptions));
+app.use(cors())
 
 
 
