@@ -7,7 +7,7 @@ const logger = require('morgan')
 const mainRoute = require('./routers/index')
 dotenv.config()
 const app = express()
-const PORT = process.env.PORT
+const PORT = process.env.PORT || 5000
 
 
   
